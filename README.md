@@ -16,7 +16,7 @@ This repository showcases a selection of projects focused on **data analysis, bu
 
 
 
-<h1>Tools & Technologies 🛠️</h1>
+<h1 align="center">Tools & Technologies 🛠️</h1>
 <br>
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
