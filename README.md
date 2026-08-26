@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Hola, Soy Richard Parraguez </b>
+  <b>Hi, I'm Richard Parraguez </b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
@@ -7,7 +7,7 @@
 
 This repository showcases a selection of projects focused on **data analysis, business intelligence, data visualization, and platform development**. It includes dashboards and analytical solutions built with **Power BI, Tableau, and Excel**, covering areas such as higher education, financial analysis, business performance, demographics, and institutional management, as well as digital platforms designed to improve data integration, traceability, and decision-making.
 
-<h1 align="center">Skills I have! 🤸‍♂</h1>
+<h1 align="center">My Skills 🤸‍♂</h1>
 <br>
 
 | ![](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge) | ![](https://img.shields.io/badge/ML-Supervised%20Learning-brightgreen?style=for-the-badge) | ![](https://img.shields.io/badge/Dashboards-red?style=for-the-badge) | ![](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge) |
@@ -16,7 +16,7 @@ This repository showcases a selection of projects focused on **data analysis, bu
 
 
 
-<h1>Tools I use! 🛠️</h1>
+<h1>Tools & Technologies 🛠️</h1>
 <br>
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -58,4 +58,3 @@ This repository showcases a selection of projects focused on **data analysis, bu
 <a href="mailto:ricparraguez.rp@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-</div>
